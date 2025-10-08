@@ -83,7 +83,7 @@ const Navbar = () => {
 							to="https://github.com/rakeebhasan09"
 						>
 							<button className="bg-[linear-gradient(125deg,#632EE3_5.68%,#9F62F2_88.38%)] py-3 px-4 flex items-center gap-[10px] text-white rounded cursor-pointer">
-								<FaGithub />
+								<FaGithub className="text-[22px]" />
 								<span className="font-semibold">
 									Contribute
 								</span>
