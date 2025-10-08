@@ -1,6 +1,9 @@
 import { Link } from "react-router";
 
 const NoAppFound = () => {
+	const handleGoBack = () => {
+		window.location.href = "/apps";
+	};
 	return (
 		<section className="py-10 md:py-20 lg:pt-[135px] lg:pb-20">
 			<div className="container">
@@ -20,11 +23,12 @@ const NoAppFound = () => {
 						please try another apps
 					</p>
 					<div className="text-center">
-						<Link to="/apps">
-							<button className="w-[150px] text-white py-3 rounded bg-[linear-gradient(125deg,#632EE3_5.68%,#9F62F2_88.38%)]">
-								Go Back!
-							</button>
-						</Link>
+						<button
+							onClick={handleGoBack}
+							className="w-[150px] text-white py-3 rounded bg-[linear-gradient(125deg,#632EE3_5.68%,#9F62F2_88.38%)]"
+						>
+							Go Back!
+						</button>
 					</div>
 				</div>
 			</div>

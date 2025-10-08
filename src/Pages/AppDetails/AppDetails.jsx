@@ -5,7 +5,11 @@ import reviewIcon from "./assets/review-icon.png";
 import AppDescription from "./AppDescription";
 import RatngsChart from "./RatngsChart";
 import NoAppFound from "../NoAppFound/NoAppFound";
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import {
+	addToLocalStorage,
+	getStoredItems,
+} from "../../Utilities/LocalStorage";
 
 const AppDetails = () => {
 	const [isInstalled, setIsInstalled] = useState(false);
@@ -27,6 +31,18 @@ const AppDetails = () => {
 		ratings,
 		description,
 	} = app;
+
+	useEffect(() => {
+		const installedApps = getStoredItems();
+		if (installedApps.includes(app.id)) {
+			setIsInstalled(true);
+		}
+	}, [app.id]);
+
+	const appInstallHandler = (id) => {
+		addToLocalStorage(id);
+		setIsInstalled(true);
+	};
 
 	return (
 		<main className="py-10 md:py-14 lg:py-20">
@@ -92,8 +108,10 @@ const AppDetails = () => {
 								</div>
 								<div>
 									<button
-										onClick={() => setIsInstalled(true)}
-										disabled={isInstalled}
+										onClick={() =>
+											appInstallHandler(app.id)
+										}
+										// disabled={isInstalled}
 										className={`rounded py-[14px] px-5 font-semibold ${
 											isInstalled
 												? "text-black bg-[#ddd] cursor-not-allowed"
