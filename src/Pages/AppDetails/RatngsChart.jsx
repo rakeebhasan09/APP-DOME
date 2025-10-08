@@ -1,8 +1,6 @@
 import { BarChart, Bar, XAxis, YAxis, ResponsiveContainer } from "recharts";
 
 const RatngsChart = ({ ratings }) => {
-	console.log(ratings);
-
 	return (
 		<div>
 			<ResponsiveContainer width="100%" height={300}>

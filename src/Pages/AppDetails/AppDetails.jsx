@@ -5,8 +5,10 @@ import reviewIcon from "./assets/review-icon.png";
 import AppDescription from "./AppDescription";
 import RatngsChart from "./RatngsChart";
 import NoAppFound from "../NoAppFound/NoAppFound";
+import { useState } from "react";
 
 const AppDetails = () => {
+	const [isInstalled, setIsInstalled] = useState(false);
 	const apps = useLoaderData();
 	const { id } = useParams();
 	const app = apps.find((app) => app.id === Number(id));
@@ -25,7 +27,7 @@ const AppDetails = () => {
 		ratings,
 		description,
 	} = app;
-	console.log(app);
+
 	return (
 		<main className="py-10 md:py-14 lg:py-20">
 			<div className="container">
@@ -89,8 +91,18 @@ const AppDetails = () => {
 									</div>
 								</div>
 								<div>
-									<button className="bg-[#00D390] rounded py-[14px] px-5 text-white font-semibold">
-										Install Now ({size} MB)
+									<button
+										onClick={() => setIsInstalled(true)}
+										disabled={isInstalled}
+										className={`rounded py-[14px] px-5 font-semibold ${
+											isInstalled
+												? "text-black bg-[#ddd] cursor-not-allowed"
+												: "text-white bg-[#00D390]"
+										}`}
+									>
+										{isInstalled
+											? "Installed"
+											: `Install Now (${size} MB)`}
 									</button>
 								</div>
 							</div>
