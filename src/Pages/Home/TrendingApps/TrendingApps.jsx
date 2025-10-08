@@ -14,7 +14,7 @@ const TrendingApps = () => {
 	const limitedApps = apps.slice(0, 8);
 
 	return (
-		<section className="lg:py-20 ">
+		<section className="py-10 md:py-14 lg:py-20 ">
 			<div className="container">
 				<SectionHeader
 					title="Trending Apps"

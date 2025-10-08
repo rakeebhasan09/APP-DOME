@@ -5,7 +5,7 @@ import { Link } from "react-router";
 const AppCard = ({ app }) => {
 	const { id, image, title, downloads, ratingAvg } = app;
 	return (
-		<Link>
+		<Link to={`/app-details/${id}`}>
 			<div className="p-4 bg-white rounded">
 				<div className="flex flex-col gap-4 group">
 					<div className="overflow-hidden">

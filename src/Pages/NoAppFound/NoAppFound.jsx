@@ -1,19 +1,23 @@
 import { Link } from "react-router";
-import errorImage from "./assets/error-page.png";
 
-const Error = () => {
+const NoAppFound = () => {
 	return (
 		<section className="py-10 md:py-20 lg:pt-[135px] lg:pb-20">
 			<div className="container">
 				<div>
-					<img className="block mx-auto" src={errorImage} alt="" />
+					<img
+						className="block mx-auto"
+						src="https://i.ibb.co.com/G4sxMdXR/no-app-found.png"
+						alt=""
+					/>
 				</div>
 				<div className="pt-5 md:pt-12 lg:pt-[65px]">
 					<h2 className="text-[30px] md:text-[48px] font-semibold text-center mb-2">
-						Oops, page not found!
+						OPPS!! APP NOT FOUND
 					</h2>
 					<p className="text-[#627382] text-center mb-4">
-						The page you are looking for is not available.
+						The App you are requesting is not found on our system.
+						please try another apps
 					</p>
 					<div className="text-center">
 						<Link to="/apps">
@@ -28,4 +32,4 @@ const Error = () => {
 	);
 };
 
-export default Error;
+export default NoAppFound;
