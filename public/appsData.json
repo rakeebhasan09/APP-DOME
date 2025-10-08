@@ -1,0 +1,362 @@
+[
+	{
+		"id": 1,
+		"image": "https://i.ibb.co.com/J9NHRxR/Task-Master-Pro.png",
+		"title": "Task Master Pro",
+		"companyName": "TechNova Ltd.",
+		"description": "TaskMaster Pro is a next-generation productivity app built for professionals who want to stay organized without the clutter. It helps users manage daily to-do lists, long-term projects, and collaborative team goals in one intuitive platform. The app integrates seamlessly with Google Calendar, Slack, and Trello, allowing instant synchronization across devices. Users can set smart reminders, categorize tasks by priority, and visualize their progress using dynamic charts and weekly reports. TaskMaster Pro also includes focus mode, helping you minimize distractions while tracking time spent on each task. Whether you’re a freelancer, student, or manager, TaskMaster Pro adapts to your workflow with personalized insights that boost efficiency. The minimal interface combined with advanced analytics makes it not only beautiful but also incredibly functional. With real-time syncing and cloud backup, your data is always secure and accessible anytime, anywhere.",
+		"size": 42,
+		"reviews": 1245,
+		"ratingAvg": 4.6,
+		"downloads": 5,
+		"ratings": [
+			{ "name": "1 star", "count": 45 },
+			{ "name": "2 star", "count": 62 },
+			{ "name": "3 star", "count": 120 },
+			{ "name": "4 star", "count": 360 },
+			{ "name": "5 star", "count": 658 }
+		]
+	},
+	{
+		"id": 2,
+		"image": "https://i.ibb.co.com/Gvmx7ndx/FitTrack.png",
+		"title": "Fit Track",
+		"companyName": "ActiveCore",
+		"description": "FitTrack is your ultimate fitness companion designed to help you live a healthier and more active life. It’s more than just a step counter—it’s a complete health tracking ecosystem that monitors your heart rate, sleep cycle, calories, and hydration in real time. Whether you’re training for a marathon or just trying to stay fit, FitTrack adapts to your lifestyle with custom workout plans and smart reminders. The app connects seamlessly with wearable devices like smartwatches and fitness bands to deliver precise insights. You can also log meals, set goals, and receive personalized nutrition advice powered by AI. FitTrack’s detailed analytics dashboard lets you visualize progress through interactive graphs and daily summaries. Its intuitive interface encourages consistency while gamified achievements keep motivation high. With data privacy as a priority, all your fitness records are encrypted and safely stored in the cloud. FitTrack is more than an app—it’s your daily health coach.",
+		"size": 58,
+		"reviews": 2310,
+		"ratingAvg": 4.3,
+		"downloads": 12,
+		"ratings": [
+			{ "name": "1 star", "count": 110 },
+			{ "name": "2 star", "count": 190 },
+			{ "name": "3 star", "count": 350 },
+			{ "name": "4 star", "count": 700 },
+			{ "name": "5 star", "count": 960 }
+		]
+	},
+	{
+		"id": 3,
+		"image": "https://i.ibb.co.com/JR4p9z4N/Photo-Blend.png",
+		"title": "Photo Blend",
+		"companyName": "PixelCraft Studios",
+		"description": "PhotoBlend redefines photo editing with its intelligent blend of creativity and automation. This app allows users to merge photos, adjust lighting, and apply professional-grade filters with a single tap. Whether you’re an aspiring photographer or a casual user, PhotoBlend helps you create magazine-quality visuals effortlessly. The AI-driven enhancement engine analyzes every photo to balance brightness, sharpness, and tone automatically. Users can also create stunning collages, replace backgrounds, and apply depth effects that mimic DSLR-quality results. Unlike conventional editors, PhotoBlend supports layer-based editing, making it perfect for advanced projects. The app is lightweight yet powerful, optimized for both speed and stability. It even includes a “Magic Retouch” feature to remove blemishes, reflections, and unwanted objects. With seamless cloud sync, users can access their work from any device. From social media content creation to digital art, PhotoBlend transforms your photos into expressive masterpieces in seconds.",
+		"size": 75,
+		"reviews": 980,
+		"ratingAvg": 4.1,
+		"downloads": 8.5,
+		"ratings": [
+			{ "name": "1 star", "count": 60 },
+			{ "name": "2 star", "count": 95 },
+			{ "name": "3 star", "count": 220 },
+			{ "name": "4 star", "count": 300 },
+			{ "name": "5 star", "count": 305 }
+		]
+	},
+	{
+		"id": 4,
+		"image": "https://i.ibb.co.com/pjBw1R6Y/NoteSync.png",
+		"title": "Note Sync",
+		"companyName": "CloudNest",
+		"description": "NoteSync is a beautifully designed note-taking app that makes capturing and organizing ideas effortless. Built for professionals, students, and creators alike, it provides a distraction-free writing environment with auto-syncing capabilities. Every note is instantly backed up to the cloud, ensuring you never lose your thoughts. You can create folders, apply color labels, and add tags for quick access later. Its real-time collaboration feature allows multiple users to edit the same note simultaneously, making it ideal for remote teams. NoteSync supports voice notes, embedded images, and markdown formatting for better presentation. Offline access ensures that your data stays available anytime, even without the internet. With AES encryption, your content remains private and protected. Whether you’re brainstorming, journaling, or managing daily tasks, NoteSync adapts to your style seamlessly. Minimal design, fast syncing, and smooth performance make it one of the most reliable productivity tools available today.",
+		"size": 35,
+		"reviews": 560,
+		"ratingAvg": 4.8,
+		"downloads": 3.2,
+		"ratings": [
+			{ "name": "1 star", "count": 10 },
+			{ "name": "2 star", "count": 20 },
+			{ "name": "3 star", "count": 30 },
+			{ "name": "4 star", "count": 140 },
+			{ "name": "5 star", "count": 360 }
+		]
+	},
+	{
+		"id": 5,
+		"image": "https://i.ibb.co.com/35W7gXgz/Budget-Ease.png",
+		"title": "Budget Ease",
+		"companyName": "SmartFinance",
+		"description": "BudgetEase is a personal finance management app crafted to simplify how people handle money. It helps users plan budgets, record daily expenses, and visualize spending habits through interactive charts and reports. The app categorizes transactions automatically by detecting merchant types and payment methods. You can set financial goals like saving for travel or paying off debt, and BudgetEase will track progress with clear milestones. Its smart insights analyze your patterns and suggest ways to cut unnecessary expenses. With bank-grade security and encryption, your financial data is safe and private. Users can link multiple accounts to see all finances in one place, reducing manual effort. The app also sends timely alerts for due bills and low balances. Whether you’re managing household expenses or business costs, BudgetEase delivers clarity and control. Designed for simplicity and accuracy, it transforms budgeting into an empowering, stress-free experience for everyone.",
+		"size": 48,
+		"reviews": 1985,
+		"ratingAvg": 4.4,
+		"downloads": 9.5,
+		"ratings": [
+			{ "name": "1 star", "count": 90 },
+			{ "name": "2 star", "count": 130 },
+			{ "name": "3 star", "count": 240 },
+			{ "name": "4 star", "count": 600 },
+			{ "name": "5 star", "count": 925 }
+		]
+	},
+	{
+		"id": 6,
+		"image": "https://i.ibb.co.com/xKBhp2Th/Travel-Mate.png",
+		"title": "Travel Mate",
+		"companyName": "GoWorld Inc.",
+		"description": "TravelMate is your all-in-one digital travel companion designed to make every trip smoother, smarter, and more memorable. It lets you plan, organize, and navigate your journeys with intelligent recommendations for destinations, hotels, restaurants, and attractions. The app uses AI-based algorithms to generate personalized itineraries based on your preferences, travel dates, and budget. TravelMate also integrates with flight and hotel booking systems to manage all your reservations in one place. Built-in offline maps and real-time location tracking ensure that you can explore safely even without internet access. The app offers live currency conversion, language translation, and emergency assistance features, making it indispensable for travelers. You can share travel experiences, create photo journals, and receive notifications for local events or weather alerts. With a sleek interface and lightning-fast performance, TravelMate transforms every trip—whether business or leisure—into a stress-free adventure you’ll always remember.",
+		"size": 90,
+		"reviews": 2730,
+		"ratingAvg": 4.5,
+		"downloads": 2.2,
+		"ratings": [
+			{ "name": "1 star", "count": 120 },
+			{ "name": "2 star", "count": 180 },
+			{ "name": "3 star", "count": 390 },
+			{ "name": "4 star", "count": 850 },
+			{ "name": "5 star", "count": 1190 }
+		]
+	},
+	{
+		"id": 7,
+		"image": "https://i.ibb.co.com/ksQ9zctr/MindEase.png",
+		"title": "Mind Ease",
+		"companyName": "CalmNest",
+		"description": "MindEase is a meditation and mental wellness app created to help users reduce anxiety, manage stress, and build emotional resilience. It combines mindfulness techniques, guided breathing, and cognitive therapy exercises into one soothing experience. Each session is crafted by mental health experts to help users improve focus, sleep better, and develop self-awareness. The app includes mood tracking, journaling, and progress analytics so users can see how their emotional health evolves over time. You can personalize meditation durations, themes, and background sounds to suit your preferences. MindEase also features a ‘Sleep Stories’ section where calming narrations and ambient sounds gently guide you into rest. Its clean design, soft tones, and intuitive interface promote calm from the moment you open it. With daily reminders and scientifically backed programs, MindEase is not just an app—it’s your personal wellness companion for a peaceful and balanced life.",
+		"size": 60,
+		"reviews": 1850,
+		"ratingAvg": 4.7,
+		"downloads": 1.5,
+		"ratings": [
+			{ "name": "1 star", "count": 70 },
+			{ "name": "2 star", "count": 80 },
+			{ "name": "3 star", "count": 190 },
+			{ "name": "4 star", "count": 460 },
+			{ "name": "5 star", "count": 1050 }
+		]
+	},
+	{
+		"id": 8,
+		"image": "https://i.ibb.co.com/wN0W6p8v/Foodify.png",
+		"title": "Foodify",
+		"companyName": "TasteLabs",
+		"description": "Foodify revolutionizes the way people discover and enjoy food by connecting users with the best local restaurants, chefs, and cuisines around them. It features a powerful search system where you can filter dishes by ingredients, cuisine type, price range, and ratings. Foodify also recommends meals based on your past orders and dietary preferences using advanced machine learning. The app offers real-time delivery tracking, contactless payment, and exclusive loyalty rewards for frequent customers. Beyond ordering, Foodify includes a community space where users can share reviews, post photos, and exchange recipes. With integrated calorie tracking, it even helps health-conscious users make smarter food choices. Whether you crave comfort food or want to try something new, Foodify delivers a seamless and enjoyable experience every time. Its modern UI, fast loading times, and reliable service have made it a favorite among food lovers globally.",
+		"size": 55,
+		"reviews": 3780,
+		"ratingAvg": 4.2,
+		"downloads": 3.5,
+		"ratings": [
+			{ "name": "1 star", "count": 300 },
+			{ "name": "2 star", "count": 420 },
+			{ "name": "3 star", "count": 720 },
+			{ "name": "4 star", "count": 1000 },
+			{ "name": "5 star", "count": 1340 }
+		]
+	},
+	{
+		"id": 9,
+		"image": "https://i.ibb.co.com/JwGK7HQt/ShopEasy.png",
+		"title": "Shop Easy",
+		"companyName": "QuickCart",
+		"description": "ShopEasy is a next-generation shopping platform that redefines the online retail experience. Designed for speed, simplicity, and savings, it allows users to browse thousands of products from top brands with real-time price comparisons and instant checkout. The app uses smart AI to recommend deals based on your interests and previous purchases. With advanced filters, you can quickly find what you need—from fashion to electronics and groceries. ShopEasy offers a secure one-tap payment system, flexible return policies, and live order tracking for complete peace of mind. Its built-in coupon engine automatically applies the best available discounts before you buy. Customers can also follow favorite stores and influencers to get personalized updates. For sellers, ShopEasy provides analytics dashboards to manage inventory and sales performance. It’s fast, intuitive, and built for a modern, mobile-first shopping generation.",
+		"size": 80,
+		"reviews": 4820,
+		"ratingAvg": 4.5,
+		"downloads": 4.2,
+		"ratings": [
+			{ "name": "1 star", "count": 250 },
+			{ "name": "2 star", "count": 310 },
+			{ "name": "3 star", "count": 710 },
+			{ "name": "4 star", "count": 1300 },
+			{ "name": "5 star", "count": 2250 }
+		]
+	},
+	{
+		"id": 10,
+		"image": "https://i.ibb.co.com/TBZJPkyV/Learnix.png",
+		"title": "Learnix",
+		"companyName": "EduCore",
+		"description": "Learnix is an e-learning platform that provides interactive courses, live classes, and personalized learning paths for students and professionals. It covers diverse subjects such as coding, business, design, and personal development, all taught by industry experts. The app uses adaptive algorithms to adjust course difficulty based on user performance, ensuring an effective learning curve. Learnix includes gamification features such as quizzes, leaderboards, and badges to keep learners motivated. It also offers offline downloads for courses, enabling learning without internet access. With progress tracking, certification options, and integration with LinkedIn, Learnix helps learners showcase achievements to future employers. The modern UI ensures distraction-free studying, while AI tutors provide instant feedback on assignments. Whether you want to upskill for your career or explore new hobbies, Learnix makes quality education accessible anytime, anywhere.",
+		"size": 120,
+		"reviews": 2100,
+		"ratingAvg": 4.6,
+		"downloads": 1.8,
+		"ratings": [
+			{ "name": "1 star", "count": 95 },
+			{ "name": "2 star", "count": 140 },
+			{ "name": "3 star", "count": 270 },
+			{ "name": "4 star", "count": 620 },
+			{ "name": "5 star", "count": 975 }
+		]
+	},
+	{
+		"id": 11,
+		"image": "https://i.ibb.co.com/ynkdbrwR/Safe-Guard-VPN.png",
+		"title": "Safe Guard VPN",
+		"companyName": "CyberNetix",
+		"description": "SafeGuard VPN ensures private, fast, and secure internet access with just one tap. It masks your IP, encrypts your connection, and protects your personal data on public Wi-Fi networks. With global servers, users can bypass geo-restrictions to access content worldwide without compromising speed. The app features military-grade AES-256 encryption, DNS leak protection, and a strict no-log policy. Users can choose from multiple server locations optimized for streaming, gaming, or browsing. SafeGuard VPN also includes a kill switch that instantly blocks internet traffic if the connection drops. Unlike many VPNs, it offers unlimited bandwidth and supports up to five devices simultaneously. Its sleek design, fast connection speeds, and 24/7 support make it ideal for individuals who value digital privacy. Whether for work, entertainment, or security, SafeGuard VPN provides a safe browsing experience everywhere you go.",
+		"size": 44,
+		"reviews": 1950,
+		"ratingAvg": 4.4,
+		"downloads": 1.3,
+		"ratings": [
+			{ "name": "1 star", "count": 80 },
+			{ "name": "2 star", "count": 150 },
+			{ "name": "3 star", "count": 260 },
+			{ "name": "4 star", "count": 580 },
+			{ "name": "5 star", "count": 880 }
+		]
+	},
+	{
+		"id": 12,
+		"image": "https://i.ibb.co.com/9HFjswV5/TaskPro.png",
+		"title": "Task Pro",
+		"companyName": "NextGen Tools",
+		"description": "TaskPro is a lightweight task and habit management app designed for busy professionals. It simplifies goal-setting and productivity tracking with its intuitive, no-clutter interface. Users can break down projects into subtasks, assign deadlines, and monitor progress with visual timelines. TaskPro supports recurring tasks, reminders, and daily streaks, making it easy to build consistency. Unlike traditional to-do lists, it emphasizes habit-building with motivational charts and personalized feedback. TaskPro integrates with major calendars and productivity suites, enabling seamless synchronization. Offline mode ensures you stay organized even without internet access. Its minimalist design reduces stress while maximizing efficiency, making it an excellent choice for individuals who want productivity without unnecessary complexity.",
+		"size": 39,
+		"reviews": 1100,
+		"ratingAvg": 4.2,
+		"downloads": 7.4,
+		"ratings": [
+			{ "name": "1 star", "count": 60 },
+			{ "name": "2 star", "count": 90 },
+			{ "name": "3 star", "count": 200 },
+			{ "name": "4 star", "count": 310 },
+			{ "name": "5 star", "count": 440 }
+		]
+	},
+	{
+		"id": 13,
+		"image": "https://i.ibb.co.com/Dgvc4nLb/GameBox.png",
+		"title": "Game Box",
+		"companyName": "PlayCore",
+		"description": "GameBox is an all-in-one mobile gaming hub that offers instant access to hundreds of mini-games without downloads. From puzzles and strategy to racing and action, it caters to every type of gamer. GameBox includes leaderboards, tournaments, and multiplayer modes to enhance competitiveness. Players can earn in-app rewards, customize avatars, and unlock achievements to showcase progress. With cloud save functionality, you can pick up your games on any device seamlessly. The app is lightweight yet packed with entertainment, optimized for speed and minimal battery usage. Frequent updates introduce new games and challenges to keep users engaged. GameBox transforms casual gaming into a dynamic social experience, connecting players worldwide.",
+		"size": 62,
+		"reviews": 2450,
+		"ratingAvg": 4.1,
+		"downloads": 2.1,
+		"ratings": [
+			{ "name": "1 star", "count": 150 },
+			{ "name": "2 star", "count": 210 },
+			{ "name": "3 star", "count": 490 },
+			{ "name": "4 star", "count": 700 },
+			{ "name": "5 star", "count": 900 }
+		]
+	},
+	{
+		"id": 14,
+		"image": "https://i.ibb.co.com/PsNV3g50/Health-Plus.png",
+		"title": "Health Plus",
+		"companyName": "WellTech Labs",
+		"description": "HealthPlus is a comprehensive health monitoring app that consolidates fitness, nutrition, and medical insights into one platform. It syncs with wearables to track heart rate, oxygen levels, steps, and calories burned. Users can log meals, set nutrition goals, and receive AI-driven diet suggestions tailored to their needs. HealthPlus also allows you to upload medical records, track prescriptions, and schedule health check reminders. The app provides weekly reports and actionable insights to help users maintain a balanced lifestyle. For chronic conditions, it offers monitoring tools and connects users with healthcare providers for remote consultations. Its modern interface, data security, and holistic approach make HealthPlus the ultimate digital health assistant.",
+		"size": 70,
+		"reviews": 1680,
+		"ratingAvg": 4.5,
+		"downloads": 1.75,
+		"ratings": [
+			{ "name": "1 star", "count": 95 },
+			{ "name": "2 star", "count": 130 },
+			{ "name": "3 star", "count": 250 },
+			{ "name": "4 star", "count": 480 },
+			{ "name": "5 star", "count": 725 }
+		]
+	},
+	{
+		"id": 15,
+		"image": "https://i.ibb.co.com/LzX1XbkW/Quick-Scan.png",
+		"title": "Quick Scan",
+		"companyName": "DocuTech",
+		"description": "QuickScan turns your smartphone into a high-quality document scanner. It allows users to capture receipts, notes, IDs, and multi-page documents with crystal-clear clarity. The app automatically detects edges, crops images, and applies filters for professional results. Users can save documents as PDF or JPG and share them instantly via email or cloud services. With OCR technology, QuickScan converts scanned text into editable and searchable documents. The app also supports e-signatures, making it perfect for remote work and business use. All files are securely stored and encrypted, ensuring privacy. Lightweight and fast, QuickScan eliminates the need for bulky scanners, delivering a reliable solution directly in your pocket.",
+		"size": 33,
+		"reviews": 980,
+		"ratingAvg": 4.3,
+		"downloads": 6,
+		"ratings": [
+			{ "name": "1 star", "count": 50 },
+			{ "name": "2 star", "count": 80 },
+			{ "name": "3 star", "count": 170 },
+			{ "name": "4 star", "count": 310 },
+			{ "name": "5 star", "count": 370 }
+		]
+	},
+	{
+		"id": 16,
+		"image": "https://i.ibb.co.com/N6mNS9z0/Crypto-Track.png",
+		"title": "Crypto Track",
+		"companyName": "FinTech Global",
+		"description": "CryptoTrack is a real-time cryptocurrency portfolio tracker designed for both beginners and experienced traders. It supports thousands of coins and tokens, providing live market data, price alerts, and advanced charting tools. Users can connect exchange accounts for automatic syncing or manually add trades to monitor performance. The app includes profit/loss analysis, portfolio diversification breakdowns, and trend predictions powered by AI. CryptoTrack also features secure wallets, news feeds, and educational content to help users stay informed. With biometric authentication and encrypted storage, your assets remain safe. Whether tracking investments or learning about blockchain, CryptoTrack offers a streamlined way to manage digital wealth.",
+		"size": 54,
+		"reviews": 1320,
+		"ratingAvg": 4.4,
+		"downloads": 9.8,
+		"ratings": [
+			{ "name": "1 star", "count": 65 },
+			{ "name": "2 star", "count": 90 },
+			{ "name": "3 star", "count": 210 },
+			{ "name": "4 star", "count": 430 },
+			{ "name": "5 star", "count": 525 }
+		]
+	},
+	{
+		"id": 17,
+		"image": "https://i.ibb.co.com/DH7gtZt0/Music-Flow.png",
+		"title": "Music Flow",
+		"companyName": "RhythmSoft",
+		"description": "MusicFlow is a music streaming app that offers millions of tracks, curated playlists, and personalized recommendations. Its AI-powered engine learns your taste to deliver daily mixes and discovery playlists. Users can create custom playlists, download songs for offline listening, and enjoy high-definition audio quality. MusicFlow also integrates social features, allowing you to follow friends, share songs, and explore trending tracks globally. It supports multiple device sync, enabling seamless transitions from phone to tablet or desktop. With exclusive podcasts and artist interviews, MusicFlow is more than a player—it’s a complete entertainment hub. The app’s sleek design and smooth playback make it a must-have for music lovers.",
+		"size": 85,
+		"reviews": 3890,
+		"ratingAvg": 4.6,
+		"downloads": 4.5,
+		"ratings": [
+			{ "name": "1 star", "count": 220 },
+			{ "name": "2 star", "count": 310 },
+			{ "name": "3 star", "count": 650 },
+			{ "name": "4 star", "count": 1200 },
+			{ "name": "5 star", "count": 1510 }
+		]
+	},
+	{
+		"id": 18,
+		"image": "https://i.ibb.co.com/nM1WyBtP/Home-Smart.png",
+		"title": "Home Smart",
+		"companyName": "Domotics",
+		"description": "HomeSmart is a smart home automation app that brings all your IoT devices into one easy-to-use dashboard. It supports lights, thermostats, cameras, locks, and appliances from multiple brands. Users can create custom routines like ‘Good Morning’ or ‘Movie Time’ that trigger multiple devices at once. The app features voice assistant integration, energy usage tracking, and real-time alerts for home security. Its geofencing technology can adjust devices automatically when you arrive or leave home. With multi-user profiles, every family member can personalize settings. HomeSmart combines convenience, efficiency, and safety into one intelligent system, giving you total control over your home environment from anywhere.",
+		"size": 68,
+		"reviews": 1740,
+		"ratingAvg": 4.5,
+		"downloads": 2.2,
+		"ratings": [
+			{ "name": "1 star", "count": 85 },
+			{ "name": "2 star", "count": 120 },
+			{ "name": "3 star", "count": 240 },
+			{ "name": "4 star", "count": 560 },
+			{ "name": "5 star", "count": 735 }
+		]
+	},
+	{
+		"id": 19,
+		"image": "https://i.ibb.co.com/LDSTkRc1/LangPro.png",
+		"title": "Lang Pro",
+		"companyName": "LinguaTech",
+		"description": "LangPro is an advanced language learning app designed to make mastering new languages fun and efficient. It offers interactive lessons, speech recognition, and immersive exercises that improve speaking, listening, reading, and writing skills. LangPro includes AI-driven tutors that adapt to your progress, ensuring lessons are always at the right level. Users can practice with native speakers through built-in chat and voice features. The app also gamifies learning with points, streaks, and leaderboards. With offline support and daily reminders, LangPro keeps learners consistent. Covering over 40 languages, from Spanish to Japanese, it’s perfect for students, travelers, and professionals who want to learn quickly and effectively.",
+		"size": 61,
+		"reviews": 2150,
+		"ratingAvg": 4.7,
+		"downloads": 2.7,
+		"ratings": [
+			{ "name": "1 star", "count": 95 },
+			{ "name": "2 star", "count": 130 },
+			{ "name": "3 star", "count": 260 },
+			{ "name": "4 star", "count": 580 },
+			{ "name": "5 star", "count": 1085 }
+		]
+	},
+	{
+		"id": 20,
+		"image": "https://i.ibb.co.com/wZGnX8vM/Evently.png",
+		"title": "Evently",
+		"companyName": "SocialSphere",
+		"description": "Evently is a smart event planning and discovery app that makes organizing and attending events effortless. It allows users to create, manage, and promote events with tools for invitations, ticketing, and reminders. Attendees can browse local events by category, location, and interest, receiving personalized suggestions powered by AI. Evently integrates with calendars and social media for smooth scheduling and sharing. It also provides interactive maps, real-time updates, and group chat features for coordination. Organizers benefit from analytics dashboards that track registrations and engagement. From concerts and conferences to small meetups, Evently bridges the gap between hosts and attendees with a sleek and intuitive design.",
+		"size": 72,
+		"reviews": 1290,
+		"ratingAvg": 4.3,
+		"downloads": 9.9,
+		"ratings": [
+			{ "name": "1 star", "count": 70 },
+			{ "name": "2 star", "count": 110 },
+			{ "name": "3 star", "count": 230 },
+			{ "name": "4 star", "count": 400 },
+			{ "name": "5 star", "count": 480 }
+		]
+	}
+]
