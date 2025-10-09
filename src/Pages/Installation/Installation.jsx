@@ -24,13 +24,13 @@ const Installation = () => {
 	const handleSort = (type) => {
 		if (type === "low-high") {
 			const lowToHighSortd = [...installList].sort(
-				(a, b) => a.size - b.size
+				(a, b) => a.downloads - b.downloads
 			);
 			setInstallList(lowToHighSortd);
 		}
 		if (type === "high-low") {
 			const lowToHighSortd = [...installList].sort(
-				(a, b) => b.size - a.size
+				(a, b) => b.downloads - a.downloads
 			);
 			setInstallList(lowToHighSortd);
 		}
@@ -57,23 +57,15 @@ const Installation = () => {
 						{installList.length} Apps Found
 					</h3>
 					<div>
-						<details className="dropdown">
-							<summary className="btn m-1">Sort By Size</summary>
-							<ul className="menu dropdown-content bg-base-100 !right-0 rounded-box z-1 w-52 p-5 gap-y-4 shadow-sm">
-								<li
-									className="cursor-pointer"
-									onClick={() => handleSort("low-high")}
-								>
-									Low - High
-								</li>
-								<li
-									className="cursor-pointer"
-									onClick={() => handleSort("high-low")}
-								>
-									High - Low
-								</li>
-							</ul>
-						</details>
+						<select
+							defaultValue="Sort By Size"
+							className="select select-neutral appearance-none focus:!outline-none focus:!ring-0"
+							onChange={(e) => handleSort(e.target.value)}
+						>
+							<option disabled={true}>Sort By Size</option>
+							<option value="low-high">Low - High</option>
+							<option value="high-low">High - Low</option>
+						</select>
 					</div>
 				</div>
 				<div className="mt-4">

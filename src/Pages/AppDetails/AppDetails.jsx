@@ -16,7 +16,6 @@ const AppDetails = () => {
 	const apps = useLoaderData();
 	const { id } = useParams();
 	const app = apps.find((app) => app.id === Number(id));
-
 	if (!app) {
 		return <NoAppFound />;
 	}
@@ -33,11 +32,13 @@ const AppDetails = () => {
 	} = app;
 
 	useEffect(() => {
-		const installedApps = getStoredItems();
-		if (installedApps.includes(app.id)) {
-			setIsInstalled(true);
+		if (app) {
+			const installedApps = getStoredItems();
+			if (installedApps.includes(app.id)) {
+				setIsInstalled(true);
+			}
 		}
-	}, [app.id]);
+	}, [app]);
 
 	const appInstallHandler = (id) => {
 		addToLocalStorage(id);
